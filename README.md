@@ -7,5 +7,5 @@ This opportunity has not only enhanced my technical skills but also reinforced m
 To-Do List:
 I built a To-Do list application using HTML, CSS, and JavaScript.🎯
 👩🏻‍💻The application allows users to add, edit, and delete tasks. This project helped me to improve my front-end development skills and my understanding of user interaction.👩🏻‍💻
-💻 By building a To-Do list application, interns can learn how to create user interfaces, how to store and manipulate data, and how to respond to user interactions.💻
+💻 By building a To-Do list application, we can learn how to create user interfaces, how to store and manipulate data, and how to respond to user interactions.💻
 
